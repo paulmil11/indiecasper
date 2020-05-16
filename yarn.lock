@@ -6017,7 +6017,7 @@ gatsby-background-image@^1.1.1:
     short-uuid "^3.1.1"
     sort-media-queries "^0.2.2"
 
-gatsby-cli@^2.12.1:
+gatsby-cli@^2.12.5:
   version "2.12.5"
   resolved "https://registry.yarnpkg.com/gatsby-cli/-/gatsby-cli-2.12.5.tgz#f79fd1d466fa121b28b7dc3f90e8b4b704008e4f"
   integrity sha512-YH2XDGNWRJNYq4jHbHKSS8Wy1/Ao6k6HHKJMOCtWMmeencurAELbkXUVCxkqL/3FxFUUbWOw4j6nkiWfsHVznw==
@@ -6510,10 +6510,10 @@ gatsby-transformer-sharp@^2.5.0:
     semver "^5.7.1"
     sharp "^0.25.1"
 
-gatsby@2.21.1:
-  version "2.21.1"
-  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-2.21.1.tgz#60f649fdfb579860cba7f6395e59dc0572f79075"
-  integrity sha512-Pf8pAC3QZMxD1cTOA4T1vFVxricZYlVf02ei0Dba/Y/NVABpDsEqpKqs59BQVvRk5GcuLaBEHv7Q93tNSfDBsA==
+gatsby@2.21.6:
+  version "2.21.6"
+  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-2.21.6.tgz#e5eced3cfbd03709cce0515f17e904d73f308663"
+  integrity sha512-PgZ9rdRECDlsH2Hf9yxzr+9ZdQv6nS1NUx4eU9cLtj7/qjWm/YWbhPASPm5reHyqANg044wF8eoelcjLGVvQ0Q==
   dependencies:
     "@babel/code-frame" "^7.8.3"
     "@babel/core" "^7.9.0"
@@ -6576,7 +6576,7 @@ gatsby@2.21.1:
     flat "^4.1.0"
     fs-exists-cached "1.0.0"
     fs-extra "^8.1.0"
-    gatsby-cli "^2.12.1"
+    gatsby-cli "^2.12.5"
     gatsby-core-utils "^1.2.0"
     gatsby-graphiql-explorer "^0.4.0"
     gatsby-link "^2.4.0"
